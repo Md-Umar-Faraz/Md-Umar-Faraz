@@ -1,5 +1,7 @@
 # Hi there, I'm Umar Faraz
 
+AI & Data Science Student at KL University
+
 ## About Me
 
 B.Tech student in Artificial Intelligence & Data Science at KL University.  
