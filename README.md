@@ -1,6 +1,10 @@
 # Hi there, I'm Umar Faraz
 
-AI & Data Science Student at KL University
+## About Me
+
+B.Tech student in Artificial Intelligence & Data Science at KL University.  
+Interested in AI, Machine Learning, and Prompt Engineering.  
+Passionate about building intelligent solutions and improving AI systems.
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,3 +49,7 @@ AI & Data Science Student at KL University
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Umar-Faraz&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Umar-Faraz&layout=compact&theme=tokyonight)
+
+## Connect With Me
+
+LinkedIn: https://linkedin.com/in/mohammad-umar-faraz
