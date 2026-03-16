@@ -39,3 +39,9 @@ AI & Data Science Student at KL University
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+##  GitHub Stats
+
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohith0088&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith0088&layout=compact&theme=tokyonight)
