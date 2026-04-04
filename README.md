@@ -44,12 +44,6 @@ I am a B.Tech student in Artificial Intelligence and Data Science at KL Universi
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Umar-Faraz&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Umar-Faraz&layout=compact&theme=tokyonight)
-
 ## Connect With Me
 
 LinkedIn: https://linkedin.com/in/mohammad-umar-faraz
