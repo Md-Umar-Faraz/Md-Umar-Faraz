@@ -37,7 +37,3 @@ I am a B.Tech student in Artificial Intelligence and Data Science at KL Universi
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## Connect With Me
-
-LinkedIn: https://linkedin.com/in/mohammad-umar-faraz
