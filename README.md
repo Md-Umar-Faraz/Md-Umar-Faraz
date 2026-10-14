@@ -2,9 +2,11 @@
 
 AI & Data Science Student at KL University
 
-## About Me
+### About Me
 
-I am a B.Tech student in Artificial Intelligence and Data Science at KL University with a strong interest in Artificial Intelligence, Machine Learning, and Prompt Engineering. I am passionate about building intelligent systems and exploring data-driven technologies that can solve real-world problems.
+I'm a B.Tech student in **Artificial Intelligence & Data Science at KL University**, passionate about building intelligent systems that solve real-world problems. My interests lie in **Machine Learning, Generative AI, Agentic AI, and Multimodal Intelligence**.
+
+I enjoy developing practical AI applications, experimenting with modern AI technologies, and turning ideas into scalable, data-driven solutions. I'm continuously strengthening my expertise in AI engineering, model development, and end-to-end intelligent application design.
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
